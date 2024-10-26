@@ -26,10 +26,10 @@ This project aims to create a dataset of English-to-Sabiny translations to suppo
 ### Structure
 The dataset will have the following format:
 
-| **English Sentence** | **Sabiny Translation** | **Pronunciation Notes** | **Additional Comments** |
-|----------------------|------------------------|-------------------------|--------------------------|
-| "How are you?"       | "Ndakwo kwesi?"        | n-da-kwo kwe-si         | Common greeting          |
-| "Thank you."         | "Wabale."              | wa-ba-le                |                          |
+| **English Sentence** | **Sabiny Translation** | **Pronunciation Notes** | 
+|----------------------|------------------------|-------------------------|
+| "How are you?"       | "Chemune?"             | che mu neh              | 
+| "Thank you."         | "Keitapoon."           | Kei ta poon             |                          
 
 ### Submission Tool
 To streamline data collection, we are using a Google Form where contributors can enter translations directly. The form fields include:
